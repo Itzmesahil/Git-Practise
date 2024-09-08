@@ -1,6 +1,6 @@
 git init
 git status
-git clone
+git clone << To clone the hole Repository
 git push
-git pull
-git fetch
+git pull << To get fetch on a particular Branch
+git fetch << To fetch the whole branch
